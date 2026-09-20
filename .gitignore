@@ -1,0 +1,36 @@
+# Unity generated folders — regenerated locally by the editor, never commit
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+.vs/
+.vsconfig
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity crash logs
+sysinfo.txt
+crashlytics-build.properties
+
+# Asset meta backups
+*.orig
+
+# macOS / Windows noise
+.DS_Store
+Thumbs.db
